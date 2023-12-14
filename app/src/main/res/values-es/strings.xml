@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DADOS DE CERDO</string>
+    <string name="hold_button">Sostener</string>
+    <string name="roll_button">Roda</string>
+    <string name="diceLeft_description">Una imagen de un dado.</string>
+    <string name="diceRight_description">Una imagen de un dado.</string>
+    <string name="loseImage">¡Tú Pierdes!</string>
+    <string name="pig_dice">DADOS DE CERDO</string>
+    <string name="computer_games_won_total">0</string>
+    <string name="computer_name">Computadora</string>
+    <string name="computer_total_score">0</string>
+    <string name="computer_turn_total">0</string>
+    <string name="dice_total">0</string>
+    <string name="dice_total_text">Total De Dados</string>
+    <string name="games_won_text">Juegos Ganados</string>
+    <string name="total_score_text">Puntaje Total</string>
+    <string name="turn_total_text">Total De Turno</string>
+    <string name="you_name_text">Tú</string>
+    <string name="user_games_won">0</string>
+    <string name="user_total_score">0</string>
+    <string name="user_turn_total">0</string>
+    <string name="winner_image">Ganador</string>
+    <string name="you_rolled_a_one_computers_turn">Tiraste un uno\n\nEl turno de la computadora</string>
+    <string name="you_rolled_snake_eyes_computers_turn">Pusiste ojos de serpiente en blanco  El turno de la computadora</string>
+    <string name="notification">El turno de la computadora</string>
+    <string name="start_over">Nuevo juego</string>
+    <string name="computer_rolled_a_one">La computadora sacó uno</string>
+    <string name="computer_rolled_snake_eyes">Ojos de serpiente rodados por computadora</string>
+    <string name="your_turn">Tu turno</string>
+    <string name="ok">OK</string>
+    <string name="roll">Roda</string>
+    <string name="computers_turn">El turno de la computadora</string>
+    <string name="pig_dice_the_game">Dados de cerdo\n¡El juego!</string>
+    <string name="about_button">Acerca de</string>
+    <string name="support_button">Apoyo</string>
+    <string name="dino_image">Imagen de un dinosaurio</string>
+    <string name="pig_leader_board">Tabla de Líderes de Pig</string>
+    <string name="play_game">Jugar Juego</string>
+</resources>
